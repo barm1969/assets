@@ -1,0 +1,42 @@
+{
+    "name": "Pixel Apples #324",
+    "symbol": "PA",
+    "description": "The Pixel Apple Collection (P2E Game)",
+    "seller_fee_basis_points": 800,
+    "image": "324.png",
+    "external_url": "https://thepixelapple.theappletree.io/",
+    "edition": 324,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Heaven Background"
+      },
+      {
+        "trait_type": "Apples",
+        "value": "Angel Apple"
+      },
+      {
+        "trait_type": "Attachments",
+        "value": "Halo"
+      },
+      {
+        "trait_type": "Leafs",
+        "value": "Angel Set"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "324.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "AkPbS1FHMSBygzGuE97uzhLbSQHrm6qFGbNT9vruxnLF",
+          "share": 100
+        }
+      ]
+    }
+  }
